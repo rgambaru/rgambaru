@@ -1,1 +1,1 @@
-<img src="Frame 1.jpg" alt="Mi genial imagen" />
+<img src="Frame-1---Cinematic.gif" alt="Mi genial imagen" />
